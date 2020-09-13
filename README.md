@@ -13,7 +13,7 @@ The website has been hosted at netlify:
 
 ## How to Run this Project
 
-- git clone "https://github.com/joaorpereira/breaking-bad.git"
+- git clone https://github.com/joaorpereira/website.git
 - npm install
 - npm start
 
