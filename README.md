@@ -3,7 +3,7 @@
 > This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. This page is ***mobile responsive*** page. The objective was to understand and improve my skills using these tools.
 
 ### Site
-The website has been hosted at netlify: 
+The website has been hosted at netlify: https://travel-react.netlify.app/
 
 ![](travel-site.gif)
 
